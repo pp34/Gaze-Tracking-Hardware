@@ -1,0 +1,140 @@
+Removed Pin From Net: NetName=NetQ6_2 Pin=Q6-2
+Removed Pin From Net: NetName=NetD19_1 Pin=Q6-3
+Removed Pin From Net: NetName=NetQ6_1 Pin=R12-2
+Removed Pin From Net: NetName=NetQ6_2 Pin=R16-1
+Removed Pin From Net: NetName=+3.3V_1 Pin=U1-4
+Removed Pin From Net: NetName=+3.3V_2 Pin=U2-4
+Change Component Comment : Designator=C1 Old Comment=Cap Pol1 New Comment=220uF25V
+Change Component Comment : Designator=C3 Old Comment=Cap Pol1 New Comment=220uF25V
+Change Component Comment : Designator=C2 Old Comment=Cap Pol3 New Comment=0.1uF(104)
+Change Component Comment : Designator=C4 Old Comment=Cap Pol3 New Comment=0.1uF(104)
+Change Component Comment : Designator=C6 Old Comment=Cap Pol3 New Comment=0.1uF(104)
+Change Component Comment : Designator=C8 Old Comment=Cap Pol3 New Comment=0.1uF(104)
+Change Component Comment : Designator=C10 Old Comment=Cap Pol3 New Comment=0.1uF(104)
+Change Component Comment : Designator=C12 Old Comment=Cap Pol3 New Comment=0.1uF(104)
+Change Component Comment : Designator=C13 Old Comment=Cap Pol3 New Comment=0.1uF(104)
+Change Component Comment : Designator=C5 Old Comment=Cap Pol3 New Comment=100uf(107)
+Change Component Comment : Designator=C7 Old Comment=Cap Pol3 New Comment=100uf(107)
+Change Component Comment : Designator=C9 Old Comment=Cap Pol3 New Comment=100uf(107)
+Change Component Comment : Designator=C11 Old Comment=Cap Pol3 New Comment=100uf(107)
+Change Component Description : Designator=D1 Old Description=Default Diode New Description=Diode
+Change Component Description : Designator=P1 Old Description=Header, 2-Pin New Description=电源接口
+Change Component Description : Designator=P2 Old Description=Header, 4-Pin New Description=串口接口
+Change Component Description : Designator=L1 Old Description=Inductor New Description=33uH
+Change Component Description : Designator=C1 Old Description=Polarized Capacitor (Radial) New Description=直插铝电解电容
+Change Component Description : Designator=C3 Old Description=Polarized Capacitor (Radial) New Description=直插铝电解电容
+Change Component Description : Designator=D4 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D5 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D6 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D7 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D8 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D9 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D10 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D11 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D12 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D13 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D14 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D17 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D18 Old Description=Typical INFRARED GaAs LED New Description=850nm IR-LED
+Change Component Description : Designator=D19 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D20 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D21 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D22 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D23 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D24 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D25 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D26 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D27 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D28 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D29 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D30 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D31 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D32 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D33 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D34 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D35 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D36 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D37 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D38 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D39 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D40 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D41 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D42 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D43 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D44 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D45 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D46 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D47 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D48 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D49 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D50 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D51 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D52 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D53 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D54 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D55 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D56 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D57 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D58 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D59 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D60 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D61 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D62 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D63 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D64 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D65 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D66 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D67 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D68 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D69 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D70 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D71 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D72 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D73 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D74 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D75 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D76 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D77 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D78 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D79 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D80 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D81 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D82 Old Description=Typical INFRARED GaAs LED New Description=940nm IR-LED
+Change Component Description : Designator=D3 Old Description=Typical INFRARED GaAs LED New Description=BLUE-LED
+Change Component Description : Designator=D16 Old Description=Typical INFRARED GaAs LED New Description=GREEN-LED
+Change Component Description : Designator=D2 Old Description=Typical INFRARED GaAs LED New Description=RED-LED
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF6.3V"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF6.3V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF6.3V"; VariantName = "[No Variations]"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Chip Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF6.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD19_1 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_2 Pin=R12-2
+Added Pin To Net: NetName=NetQ6_1 Pin=R16-1
+Change Net Name : Old Net Name=NetQ6_2 New Net Name=NetQ6_3

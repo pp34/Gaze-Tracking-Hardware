@@ -1,0 +1,19 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~GT-V1.PrjPcb|ReportField=ProjectFullPath~E:\Gaze Tracking\GT-V1.PrjPcb|ReportField=Title~Bill of Materials For Project [GT-V1.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~151|ReportField=ReportTime~6:57:38|ReportField=ReportDate~2017/11/28|ReportField=ReportDateTime~2017/11/28 6:57:38|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/11/28|ReportField=CurrentTime~6:55:23|ReportField=Date~|ReportField=DocumentFullPathAndName~E:\Gaze Tracking\GZ.SchDoc|ReportField=DocumentName~GZ.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/11/28|ReportField=Organization~|ReportField=ProjectName~GT-V1.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~GT-V1.PrjPcb|ReportField=DataSourceFullPath~E:\Gaze Tracking\GT-V1.PrjPcb|ReportField=PCBDataSourceFileName~GZPCB_v1.PcbDoc|ReportField=PCBDataSourceFullPath~E:\Gaze Tracking\GZPCB_v1.PcbDoc|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|220uF25V|直插铝电解电容|C1, C3|3mmcap|Cap Pol1|2|220uF25V
+2|0.1uF(104)|Polarized Capacitor (Surface Mount)|C2, C4, C6, C8, C10, C12, C13|C0805|Cap Pol3|7|0.1uF(104), 0.1uF, 0.1uF, 0.1uF, 0.1uF, 104, 104
+3|100uf(107)|Polarized Capacitor (Surface Mount)|C5, C7, C9, C11|C0805|Cap Pol3|4|100uF
+4|ES2D|Diode|D1|SMC|Diode|1|
+5|PWR|RED-LED|D2|3mm|LED0|1|
+6|BLUE|BLUE-LED|D3|3mm|LED0|1|
+7|LED0|850nm IR-LED|D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D17, D18|5mm|LED0|13|
+8|GREEN|GREEN-LED|D16|3mm|LED0|1|
+9|LED0|940nm IR-LED|D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D70, D71, D72, D73, D74, D75, D76, D77, D78, D79, D80, D81, D82|3mm|LED0|64|
+10|Inductor|33uH|L1|7*7mm贴片电感|Inductor|1|33uH
+11|U1|LM2596-5.0|LM1|TO-263-5|LM2596|1|
+12|Header 2|电源接口|P1|HDR1X2|Header 2|1|
+13|Header 4|串口接口|P2|HDR1X4|Header 4|1|
+14|QNPN|NPN Bipolar Transistor|Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15|SOT-23B_N|QNPN|15|
+15|Res2|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33|6-0805_N|Res2|33|1K, 150, 150, 15, 1K, 1K, 1K, 330R, 330R, 150, 150, 15, 15, 1K, 1K, 1K, 1K, 150, 150, 15, 15, 1K, 1K, 1K, 1K, 150, 150, 15, 15, 1K, 1K, 1K, 1K
+16|STM32F103C8核心板|STM32F103C8核心板|STM1|STM32F103C8T6|STM32F103C8核心板|1|
+17|AMS1117-3.3||U1, U2|SOT223_N|AMS1117-3.3|2|
+18|74HC595||U3, U4|dip16|74HC595|2|

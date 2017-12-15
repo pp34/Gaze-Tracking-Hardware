@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetD6_1 Pin=D15-1
+Removed Pin From Net: NetName=GND Pin=D15-2
+Removed Member From Class: ClassName=GZ Member=D15
